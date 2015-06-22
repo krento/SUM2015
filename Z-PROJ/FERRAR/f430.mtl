@@ -1,0 +1,1484 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.0 6.0.0.5908 Release
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl f430white
+Ka 0.882353 0.176471 0.109804
+Kd 0.882353 0.176471 0.109804
+Ks 0.854902 0.541176 0.545098
+illum 2
+Ns 25.9921
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430plastik
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.901961 0.901961 0.901961
+illum 2
+Ns 25.9921
+map_Kd stc_f430plastik.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430tex00
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.988235 0.988235 0.988235
+illum 2
+Ns 27.8576
+map_Kd stc_f430tex00.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430tex01
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 25.9921
+map_Kd stc_f430tex01.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.909804 0.909804 0.909804
+illum 2
+Ns 34.2967
+map_Kd stc_f430metal.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl stc_f430.tga
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430grill
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 39.3966
+map_Kd stc_f430grill2.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430black
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.968628 0.968628 0.968628
+illum 2
+Ns 34.2967
+map_Kd stc_f430black.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430engine
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.696549 0.696549 0.696549
+illum 2
+Ns 42.2243
+map_Kd stc_f430enginered.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430felt
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.696549 0.696549 0.696549
+illum 2
+Ns 64
+map_Kd stc_f430felt00.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl vehiclelights05
+Ka 0.223529 0.223529 0.223529
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 29.8571
+map_Kd vehiclelights128.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl metal
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.696549 0.696549 0.696549
+illum 2
+Ns 22.6274
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__231
+Ka 0.882353 0.176471 0.109804
+Kd 0.882353 0.176471 0.109804
+Ks 0.854902 0.541176 0.545098
+illum 2
+Ns 25.9921
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl f430white0
+Ka 0.882353 0.176471 0.109804
+Kd 0.882353 0.176471 0.109804
+Ks 0.854902 0.541176 0.545098
+illum 2
+Ns 25.9921
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430plastik0
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.901961 0.901961 0.901961
+illum 2
+Ns 25.9921
+map_Kd stc_f430plastik.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430grill0
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 39.3966
+map_Kd stc_f430grill2.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430black0
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.968628 0.968628 0.968628
+illum 2
+Ns 34.2967
+map_Kd stc_f430black.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__182
+Ka 0.882353 0.176471 0.109804
+Kd 0.882353 0.176471 0.109804
+Ks 0.854902 0.541176 0.545098
+illum 2
+Ns 25.9921
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl f430white1
+Ka 0.882353 0.176471 0.109804
+Kd 0.882353 0.176471 0.109804
+Ks 0.854902 0.541176 0.545098
+illum 2
+Ns 25.9921
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430plastik1
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.901961 0.901961 0.901961
+illum 2
+Ns 25.9921
+map_Kd stc_f430plastik.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430tex000
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.988235 0.988235 0.988235
+illum 2
+Ns 27.8576
+map_Kd stc_f430tex00.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome0
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.909804 0.909804 0.909804
+illum 2
+Ns 34.2967
+map_Kd stc_f430metal.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl stc_f430.tga
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430black1
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.968628 0.968628 0.968628
+illum 2
+Ns 34.2967
+map_Kd stc_f430black.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430blackr
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.988235 0.988235 0.988235
+illum 2
+Ns 32
+map_Kd stc_f430blackr.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl stc_f430.tga
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430glass02
+Ka 0.027451 0.0784314 0.109804
+Kd 0.027451 0.0784314 0.109804
+Ks 1 1 1
+illum 2
+Ns 27.8576
+d 0.69
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl stc_f430.tga
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430grill01
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.696549 0.696549 0.696549
+illum 2
+Ns 55.7152
+d 0.94
+map_Kd stc_f430grill2.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__242
+Ka 0.882353 0.176471 0.109804
+Kd 0.882353 0.176471 0.109804
+Ks 0.854902 0.541176 0.545098
+illum 2
+Ns 25.9921
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430blackr0
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.988235 0.988235 0.988235
+illum 2
+Ns 32
+map_Kd stc_f430blackr.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl stc_f430.tga
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430glass020
+Ka 0.027451 0.0784314 0.109804
+Kd 0.027451 0.0784314 0.109804
+Ks 1 1 1
+illum 2
+Ns 27.8576
+d 0.69
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl stc_f430.tga
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__160
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.988235 0.988235 0.988235
+illum 2
+Ns 32
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl f430white2
+Ka 0.882353 0.176471 0.109804
+Kd 0.882353 0.176471 0.109804
+Ks 0.854902 0.541176 0.545098
+illum 2
+Ns 25.9921
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430plastik2
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.901961 0.901961 0.901961
+illum 2
+Ns 25.9921
+map_Kd stc_f430plastik.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430tex010
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 25.9921
+map_Kd stc_f430tex01.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__255
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 13.9288
+map_Kd pioneer.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome1
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.909804 0.909804 0.909804
+illum 2
+Ns 34.2967
+map_Kd stc_f430metal.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl stc_f430.tga
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430black2
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.968628 0.968628 0.968628
+illum 2
+Ns 34.2967
+map_Kd stc_f430black.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430leather
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.696549 0.696549 0.696549
+illum 2
+Ns 25.9921
+map_Kd I:\\models\\FERRAR~2\\Coja-Leather-COR.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430glass021
+Ka 0.027451 0.0784314 0.109804
+Kd 0.027451 0.0784314 0.109804
+Ks 1 1 1
+illum 2
+Ns 27.8576
+d 0.69
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl stc_f430.tga
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__116
+Ka 0.882353 0.176471 0.109804
+Kd 0.882353 0.176471 0.109804
+Ks 0.854902 0.541176 0.545098
+illum 2
+Ns 25.9921
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl f430white3
+Ka 0.882353 0.176471 0.109804
+Kd 0.882353 0.176471 0.109804
+Ks 0.854902 0.541176 0.545098
+illum 2
+Ns 25.9921
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430tex011
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 25.9921
+map_Kd stc_f430tex01.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__256
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 29.8571
+map_Kd plate1.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430black3
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.968628 0.968628 0.968628
+illum 2
+Ns 34.2967
+map_Kd stc_f430black.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430grill1
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 39.3966
+map_Kd stc_f430grill2.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__204
+Ka 0.882353 0.176471 0.109804
+Kd 0.882353 0.176471 0.109804
+Ks 0.854902 0.541176 0.545098
+illum 2
+Ns 25.9921
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl f430white4
+Ka 0.882353 0.176471 0.109804
+Kd 0.882353 0.176471 0.109804
+Ks 0.854902 0.541176 0.545098
+illum 2
+Ns 25.9921
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430plastik3
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.901961 0.901961 0.901961
+illum 2
+Ns 25.9921
+map_Kd stc_f430plastik.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430tex012
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 25.9921
+map_Kd stc_f430tex01.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__254
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 16
+map_Kd pioneer.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome2
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.909804 0.909804 0.909804
+illum 2
+Ns 34.2967
+map_Kd stc_f430metal.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl stc_f430.tga
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430black4
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.968628 0.968628 0.968628
+illum 2
+Ns 34.2967
+map_Kd stc_f430black.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430leather0
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.696549 0.696549 0.696549
+illum 2
+Ns 25.9921
+map_Kd I:\\models\\FERRAR~2\\Coja-Leather-COR.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430glass022
+Ka 0.027451 0.0784314 0.109804
+Kd 0.027451 0.0784314 0.109804
+Ks 1 1 1
+illum 2
+Ns 27.8576
+d 0.69
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl stc_f430.tga
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__138
+Ka 0.882353 0.176471 0.109804
+Kd 0.882353 0.176471 0.109804
+Ks 0.854902 0.541176 0.545098
+illum 2
+Ns 25.9921
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl f430white5
+Ka 0.882353 0.176471 0.109804
+Kd 0.882353 0.176471 0.109804
+Ks 0.854902 0.541176 0.545098
+illum 2
+Ns 25.9921
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430tex001
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.988235 0.988235 0.988235
+illum 2
+Ns 27.8576
+map_Kd stc_f430tex00.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430felt0
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.696549 0.696549 0.696549
+illum 2
+Ns 64
+map_Kd stc_f430felt00.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__94
+Ka 0.882353 0.176471 0.109804
+Kd 0.882353 0.176471 0.109804
+Ks 0.854902 0.541176 0.545098
+illum 2
+Ns 25.9921
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430blackr1
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.988235 0.988235 0.988235
+illum 2
+Ns 32
+map_Kd stc_f430blackr.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl stc_f430.tga
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430glass023
+Ka 0.027451 0.0784314 0.109804
+Kd 0.027451 0.0784314 0.109804
+Ks 1 1 1
+illum 2
+Ns 27.8576
+d 0.69
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl stc_f430.tga
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__83
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.988235 0.988235 0.988235
+illum 2
+Ns 32
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl steer
+Ka 0.752941 0.752941 0.752941
+Kd 1 1 1
+Ks 0.632 0.632 0.632
+illum 2
+Ns 32
+map_Kd steer.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl stc_f430.tga
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430leather1
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.696549 0.696549 0.696549
+illum 2
+Ns 25.9921
+map_Kd I:\\models\\FERRAR~2\\Coja-Leather-COR.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430tex002
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.988235 0.988235 0.988235
+illum 2
+Ns 27.8576
+map_Kd stc_f430tex00.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome3
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.909804 0.909804 0.909804
+illum 2
+Ns 34.2967
+map_Kd stc_f430metal.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl stc_f430.tga
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430black5
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.968628 0.968628 0.968628
+illum 2
+Ns 34.2967
+map_Kd stc_f430black.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430black01
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 11.3137
+map_Kd stc_f430black.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__72
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.988235 0.988235 0.988235
+illum 2
+Ns 27.8576
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl matte
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl f430white6
+Ka 0.882353 0.176471 0.109804
+Kd 0.882353 0.176471 0.109804
+Ks 0.854902 0.541176 0.545098
+illum 2
+Ns 25.9921
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430plastik4
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.901961 0.901961 0.901961
+illum 2
+Ns 25.9921
+map_Kd stc_f430plastik.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430tex003
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.988235 0.988235 0.988235
+illum 2
+Ns 27.8576
+map_Kd stc_f430tex00.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome4
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.909804 0.909804 0.909804
+illum 2
+Ns 34.2967
+map_Kd stc_f430metal.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl stc_f430.tga
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430black6
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.968628 0.968628 0.968628
+illum 2
+Ns 34.2967
+map_Kd stc_f430black.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430leather2
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.696549 0.696549 0.696549
+illum 2
+Ns 25.9921
+map_Kd I:\\models\\FERRAR~2\\Coja-Leather-COR.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430carbon
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 68.5935
+map_Kd stc_f430carbon03.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430plast01
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 22.6274
+map_Kd stc_f430plastik.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430felt1
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.696549 0.696549 0.696549
+illum 2
+Ns 64
+map_Kd stc_f430felt00.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430digits01
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 13.9288
+map_Kd stc_f430digits1.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430digits02
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.696549 0.696549 0.696549
+illum 2
+Ns 27.8576
+map_Kd stc_f430digits2.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430black010
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 11.3137
+map_Kd stc_f430black.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430digits03
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.696549 0.696549 0.696549
+illum 2
+Ns 51.9842
+map_Kd stc_f430digits3.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__61
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl f430white7
+Ka 0.882353 0.176471 0.109804
+Kd 0.882353 0.176471 0.109804
+Ks 0.854902 0.541176 0.545098
+illum 2
+Ns 25.9921
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430plastik5
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.901961 0.901961 0.901961
+illum 2
+Ns 25.9921
+map_Kd stc_f430plastik.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl stc_f430black7
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.968628 0.968628 0.968628
+illum 2
+Ns 34.2967
+map_Kd stc_f430black.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__46
+Ka 0.882353 0.176471 0.109804
+Kd 0.882353 0.176471 0.109804
+Ks 0.854902 0.541176 0.545098
+illum 2
+Ns 25.9921
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _0___Default
+Ka 0.0862745 0.0862745 0.0862745
+Kd 0.0862745 0.0862745 0.0862745
+Ks 0.9 0.9 0.9
+illum 2
+Ns 12.1257
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__272
+Ka 0.588235 0.588235 0.588235
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 9.84915
+map_Kd stc_f430tire00.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _0___Default0
+Ka 0.0862745 0.0862745 0.0862745
+Kd 0.0862745 0.0862745 0.0862745
+Ks 0.9 0.9 0.9
+illum 2
+Ns 12.1257
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__257
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 32
+map_Kd stc_f430tex011.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__239
+Ka 0.588 0.588 0.588
+Kd 0.588 0.588 0.588
+Ks 0.9 0.9 0.9
+illum 2
+Ns 6.49802
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__258
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 10.5561
+map_Kd brake.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
